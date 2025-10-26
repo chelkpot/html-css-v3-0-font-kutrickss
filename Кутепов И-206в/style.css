@@ -1,0 +1,44 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+p {
+  font-style: italic;
+}
+
+h1 {
+  font-variant: small-caps;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+body {
+  font-size: 18px;
+}
+
+p:hover {
+  color: #0077cc;
+  background-color: #eef;
+}
+
+p {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-indent: 30px;
+}
+
+h1 {
+  text-transform: uppercase;
+}
